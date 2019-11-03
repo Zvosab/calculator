@@ -1,0 +1,6 @@
+E:\PROGRAMMING\C SHARP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\PROGRAMMING\C SHARP\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\PROGRAMMING\C SHARP\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\PROGRAMMING\C SHARP\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\PROGRAMMING\C SHARP\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\PROGRAMMING\C SHARP\Calculator\Calculator\obj\Debug\Calculator.pdb
