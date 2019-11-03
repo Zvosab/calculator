@@ -1,2 +1,3 @@
 # calculator
 simple calculator in c#
+Im a C# begginer and this is a simple calculator I made for practice. Im sure there are lot of calculators out there :) but feel free to edit this one too...
